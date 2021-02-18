@@ -1,4 +1,4 @@
-# Space-Shoteor-Game
+# Space-Shooter-Game
 
 This is a small game where there will be two spaceship battlling against each other.
 This is a first game I ever build using the pygame module in python. It took me 8 hours to complete this game.
